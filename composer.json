@@ -1,0 +1,18 @@
+{
+  "name": "shams/php-string-utils",
+  "description": "A PHP package for common string manipulation utilities.",
+  "type": "library",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Shams\\StringUtils\\": "src/StringUtils/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Shams",
+      "email": "sktabrez856@manuu.edu.in"
+    }
+  ],
+  "require": {}
+}
